@@ -9,6 +9,7 @@ services:
   volumes:
    - gradle-cache:/home/gradle/.gradle
    - gradle-cache:/home/gradle/build
+   - ./project:/opt/workspace
 
  run:
   image: gradle/example
