@@ -5,7 +5,9 @@ services:
   image: gradle/example
   build:
    context: .
-  command: gradle build
+  command: ./gradlew build
+  environment:
+   - /.android
   volumes:
    - gradle-cache:/home/gradle/.gradle
    - gradle-cache:/home/gradle/build
@@ -15,7 +17,7 @@ services:
   image: gradle/example
   build:
    context: .
-  command: gradle installDebug
+  command: ./gradlew installDebug
   volumes:
    - gradle-cache:/home/gradle/.gradle
    - gradle-cache:/home/gradle/build
