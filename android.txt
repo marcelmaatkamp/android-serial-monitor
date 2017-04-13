@@ -1,0 +1,41 @@
+   1- Android SDK Platform-tools, revision 25.0.4
+   2- Android SDK Build-tools, revision 26 rc1
+   3- Documentation for Android SDK, API 24, revision 1
+   4- SDK Platform Android 7.1.1, API 25, revision 3
+   5- SDK Platform Android 7.0, API 24, revision 2
+   6- SDK Platform Android 6.0, API 23, revision 3
+   7- SDK Platform Android 5.1.1, API 22, revision 2
+   8- SDK Platform Android 5.0.1, API 21, revision 2
+   9- SDK Platform Android 4.4W.2, API 20, revision 2
+  10- SDK Platform Android 4.4.2, API 19, revision 4
+  11- SDK Platform Android 4.3.1, API 18, revision 3
+  12- SDK Platform Android 4.2.2, API 17, revision 3
+  13- SDK Platform Android 4.1.2, API 16, revision 5
+  14- SDK Platform Android 4.0.3, API 15, revision 5
+  15- SDK Platform Android 4.0, API 14, revision 4
+  16- SDK Platform Android 3.2, API 13, revision 1
+  17- SDK Platform Android 3.1, API 12, revision 3
+  18- SDK Platform Android 3.0, API 11, revision 2
+  19- SDK Platform Android 2.3.3, API 10, revision 2
+  20- SDK Platform Android 2.3.1, API 9, revision 2
+  21- SDK Platform Android 2.2, API 8, revision 3
+  22- SDK Platform Android 2.1, API 7, revision 3
+  23- Google APIs, Android API 24, revision 1
+  24- Google APIs, Android API 23, revision 1
+  25- Google APIs, Android API 22, revision 1
+  26- Google APIs, Android API 21, revision 1
+  27- Google APIs, Android API 19, revision 20
+  28- Glass Development Kit Preview, Android API 19, revision 11
+  29- Google APIs, Android API 18, revision 4
+  30- Google APIs, Android API 17, revision 4
+  31- Google APIs, Android API 16, revision 4
+  32- Google APIs, Android API 15, revision 3
+  33- Android Support Repository, revision 47
+  34- Android Auto Desktop Head Unit emulator, revision 1.1
+  35- Google Play services, revision 39
+  36- Google Repository, revision 46
+  37- Google Play APK Expansion library, revision 1
+  38- Google Play Licensing Library, revision 1
+  39- Google Play Billing Library, revision 5
+  40- Android Auto API Simulators, revision 1
+  41- Google Web Driver, revision 2
