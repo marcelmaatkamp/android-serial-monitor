@@ -1,26 +1,17 @@
 version: '2'
 services:
  
- compile:
-  image: chibatching/docker-android-sdk
-  command: ./gradlew build
+ upload:
+  image: marcelmaatkamp/android-gradle:23
   privileged: true
-  environment:
-   - /.android
-  volumes:
-   - gradle-cache:/home/gradle/.gradle
-   - gradle-cache:/home/gradle/build
-   - ./project:/opt/workspace
-   - /dev/bus/usb:/dev/bus/usb 
-
- run:
-  image: marcelmaatkamp/android-gradle
   build:
    context: .
-  command: ./gradlew installDebug
+  command: bash -c "cd /opt/workspace && ./gradlew installDebug"
   volumes:
    - gradle-cache:/home/gradle/.gradle
-   - gradle-cache:/home/gradle/build
+   - gradle-cache:/home/gradle/.build
+   - ./project:/opt/workspace
+   - /dev/bus/usb:/dev/bus/usb 
 
 volumes:
  gradle-cache:
