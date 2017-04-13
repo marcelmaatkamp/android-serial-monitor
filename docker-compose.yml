@@ -4,8 +4,6 @@ services:
  upload:
   image: marcelmaatkamp/android-gradle:23
   privileged: true
-  build:
-   context: .
   command: bash -c "cd /opt/workspace && ./gradlew installDebug"
   volumes:
    - gradle-cache:/home/gradle/.gradle
