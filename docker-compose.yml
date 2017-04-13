@@ -2,19 +2,19 @@ version: '2'
 services:
  
  compile:
-  image: gradle/example
-  build:
-   context: .
+  image: chibatching/docker-android-sdk
   command: ./gradlew build
+  privileged: true
   environment:
    - /.android
   volumes:
    - gradle-cache:/home/gradle/.gradle
    - gradle-cache:/home/gradle/build
    - ./project:/opt/workspace
+   - /dev/bus/usb:/dev/bus/usb 
 
  run:
-  image: gradle/example
+  image: marcelmaatkamp/android-gradle
   build:
    context: .
   command: ./gradlew installDebug

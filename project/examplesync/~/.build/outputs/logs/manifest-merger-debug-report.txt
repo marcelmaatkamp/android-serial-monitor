@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:1:11-52
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:4:5-5:44
+	android:required
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:5:19-42
+	android:name
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:4:19-59
+application
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:design:23.1.1] /root/.android/build-cache/67acb6ab2920719608123580cd3abc4032bdd928/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /root/.android/build-cache/ced020e4f9e12f738bef75605cfcedef837b573f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /root/.android/build-cache/7ee58aa9f5be56f9e0b480fa39edba42b441f168/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:12:9-40
+activity#com.felhr.serialportexamplesync.MainActivity
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:20:27-74
+service#com.felhr.serialportexamplesync.UsbService
+ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:23:9-26:19
+	android:enabled
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from /opt/workspace/examplesync/src/main/AndroidManifest.xml:24:13-70
+uses-sdk
+INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.1.1] /root/.android/build-cache/67acb6ab2920719608123580cd3abc4032bdd928/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /root/.android/build-cache/ced020e4f9e12f738bef75605cfcedef837b573f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /root/.android/build-cache/2e17966b6c20fa1f7f45cba77f1c29f4da53d505/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /root/.android/build-cache/7ee58aa9f5be56f9e0b480fa39edba42b441f168/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.felHR85:UsbSerial:4.5] /root/.android/build-cache/86fc822fd24d11cb85a8a7602570a0cd19d417c9/output/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:1.0-SNAPSHOT] /opt/workspace/rxandroid/~/.build/intermediates/bundles/default/AndroidManifest.xml:19:5-43
+	android:targetSdkVersion
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml
+		INJECTED from /opt/workspace/examplesync/src/main/AndroidManifest.xml

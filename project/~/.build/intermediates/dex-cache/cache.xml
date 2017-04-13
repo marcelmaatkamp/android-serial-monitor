@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/67acb6ab2920719608123580cd3abc4032bdd928/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_066a0fbe63f7db229b4c344521923b7d3153c4d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7ee58aa9f5be56f9e0b480fa39edba42b441f168/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_83f7a544dc84d99f32ca13790a911bc0636c5998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/workspace/rxandroid/~/.build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e575f6c76295d1e1dc508c155a1187033313847d">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_c8fa1916184ede29995ae8cb34baa58ee7c9c3f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/86fc822fd24d11cb85a8a7602570a0cd19d417c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_4ef5f0cafe6ebb091797bb7d082883e1e820d32f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ced020e4f9e12f738bef75605cfcedef837b573f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_93693b19e4f18dc747207daaa2412961f5089fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/support-annotations-23.1.1_2147e6420daac8c8887e5747e72b5dc2409fce66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2e17966b6c20fa1f7f45cba77f1c29f4da53d505/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/classes_e911f29223105cf6791fd7687de3e9c94e96ce6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_274a0a494a1d9ac9fe54a7348587f9a2c88ec428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7ee58aa9f5be56f9e0b480fa39edba42b441f168/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/internal_impl-23.1.1_15ec1bfc3f0d9f581d242d93479b9732ba494ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.8/47fadd5ff70f325e520fbc491227bd9283a48f95/rxjava-2.0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47fadd5ff70f325e520fbc491227bd9283a48f95">
+        <dex dex="/opt/workspace/examplesync/~/.build/intermediates/pre-dexed/debug/rxjava-2.0.8_2302349b9698e31776dd0e2e3f873c665ecfba30.jar" />
+    </item>
+
+</items>
