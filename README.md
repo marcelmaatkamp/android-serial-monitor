@@ -2,8 +2,9 @@
 
 Android serial monitor application with RxAndroid
 
-# Start
+# Usage
 
+Connect an android device with USB and issue 'up' aftet which the application will be build and uploaded to the device.
 ```
-ANDROID_HOME=~/Library/Android/sdk gradle installDebug
+docker-compose up
 ```
