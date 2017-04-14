@@ -1,6 +1,6 @@
 # android-serial-monitor
 
-Android serial monitor application with RxAndroid
+Android serial monitor application made with RxAndroid
 
 # Usage
 
